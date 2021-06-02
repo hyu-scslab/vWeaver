@@ -1,0 +1,3 @@
+[submodule "mysql"]
+	path = mysql
+	url = https://github.com/hyu-scslab/vWeaver_mysql.git
