@@ -1,6 +1,9 @@
 [submodule "mysql"]
 	path = mysql
 	url = https://github.com/hyu-scslab/vWeaver_mysql.git
-[submodule "postgres/postgres"]
-	path = postgres/postgres
+[submodule "postgres"]
+	path = postgres
 	url = https://github.com/hyu-scslab/vWeaver_postgres.git
+[submodule "ermia"]
+	path = ermia
+	url = https://github.com/hyu-scslab/vWeaver_ermia.git
